@@ -12,12 +12,4 @@
 }
 
 
-// 
-{
-  let doLoop = 1;
 
-  while (doLoop <= 5) {
-    console.log("Loop while already run" + " " + doLoop);
-    doLoop++;
-  }
-}
